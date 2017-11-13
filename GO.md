@@ -26,7 +26,7 @@ Die Aufgaben gemäß §1 II werden wie folgt verteilt:
 
 ## § 4 [Anträge; Beschlüsse]
 
-**(1)** Jedes ordentliche Mitglied der Jungen Piraten ist berechtigt, einen Antrag an den Bundesvorstand zu stellen. Dieses Recht steht auch Fördermitgliedern zu.  
+**(1)** Jede Natürliche Person ist berechtigt, einen Antrag an den Bundesvorstand zu stellen. Dieses Recht steht auch Fördermitgliedern zu.  
 **(2)** Beschlüsse können auf einer Sitzung oder in Form eines Umlaufbeschlusses getroffen werden. Beschlüsse werden mit einfacher Mehrheit in namentlicher Abstimmung gefasst und müssen in Textform festgehalten werden. Auf Wunsch ist jedem Mitglied der Jungen Piraten Einsicht in die Beschlüsse des Vorstands zu gewähren.  
 **(3)** Alle Beschlüsse des Bundesvorstands werden unverzüglich auf der Webseite veröffentlicht. Dies gilt nicht, sofern persönlichkeits- oder sonstige Rechte dem entgegenstehen.  
 **(4)** Liegen in einem Tagesordnungspunkt einer Bundesvorstandssitzung mehrere sich ausschließende Beschlussanträge vor, wird durch Wahl durch Zustimmung bzw. Stichwahl derjenige Antrag ausgewählt,der zur Abstimmung steht.  
