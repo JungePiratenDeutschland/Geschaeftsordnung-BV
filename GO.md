@@ -2,13 +2,14 @@
 
 ## § 1 Aufgabenverteilung des Bundesvorstandes
 
-* _Social Media_: Jonathan-Benedict Hütter & Lea Laux (stellvertretend)
-* _Presse & Webseitencontent_: Lea Laux & Jonathan-Benedict Hütter (stellvertretend)
-* _Externe Kommunikation (andere Vereine & Jugendorganisationen)_: Jonathan-Benedict Hütter & Lea (stellvertretend)
-* _International cooperations/Internationale Beziehungen_: Jonathan-Benedict Hütter & Lea Laux (stellvertretend)
-* _Kontakt zur Piratenpartei_: Lea Laux Jonathan-Benedict Hütter (stellvertretend)
-* _Mitgliederbetreuung_: Lea Laux
-* _Finanzen, Verwaltung und IT_: Felix Wöstmann & Jonathan-Benedict Hütter (stellvertretend)
+* _Social Media_: Jonathan-Benedict Hütter; LuiseGlobig (stellvertretend) 
+* _Presse & Webseitencontent_: Jonathan-Benedict Hütter; LuiseGlobig (stellvertretend) 
+* _Externe Kommunikation (andere Vereine und Jugendorganisationen)_: Jonathan-Benedict Hütter; LuiseGlobig (stellvertretend) 
+* _International cooperations/Internationale Beziehungen_: LuiseGlobig; Jonathan-Benedict Hütter (stellvertretend) 
+* _Kontakt zur Piratenpartei_: Elina Hattendorf; LuiseGlobig und Jonathan-Benedict Hütter (stellvertretend) 
+* _Mitgliederbetreuung_: LuiseGlobig; Elina Hattendorf (stellvertretend) 
+* _Finanzen, Verwaltung und IT_: Felix Wöstmann; Mirco Lukas (stellvertretend)
+* _Organisation und Pflege des Ticketsystems_: Mirco Lukas; Felix Wöstmann (stellvertretend)
 
 ## §2 Vorstandssitzung
 
