@@ -7,13 +7,15 @@
 
 Die Aufgaben gemäß §1 II werden wie folgt verteilt:
 
-1. _Social Media_: Jonathan-Benedict Hütter & Lea Laux (stellvertretend)
-1. _Presse & Webseitencontent_: Lea Laux & Jonathan-Benedict Hütter (stellvertretend)
-1. _Externe Kommunikation (andere Vereine & Jugendorganisationen)_: Jonathan-Benedict Hütter & Lea (stellvertretend)
-1. _International cooperations/Internationale Beziehungen_: Jonathan-Benedict Hütter & Lea Laux (stellvertretend)
-1. _Kontakt zur Piratenpartei_: Lea Laux Jonathan-Benedict Hütter (stellvertretend)
-1. _Mitgliederbetreuung_: Lea Laux
-1. _Finanzen, Verwaltung und IT_: Felix Wöstmann & Jonathan-Benedict Hütter (stellvertretend)
+1. _Social Media_: Jonathan-Benedict Hütter; LuiseGlobig (stellvertretend) 
+1. _Presse & Webseitencontent_: Jonathan-Benedict Hütter; LuiseGlobig (stellvertretend) 
+1. _Externe Kommunikation (andere Vereine und Jugendorganisationen)_: Jonathan-Benedict Hütter; LuiseGlobig (stellvertretend) 
+1. _International cooperations/Internationale Beziehungen_: LuiseGlobig; Jonathan-Benedict Hütter (stellvertretend) 
+1. _Kontakt zur Piratenpartei_: Elina Hattendorf; LuiseGlobig und Jonathan-Benedict Hütter (stellvertretend) 
+1. _Mitgliederbetreuung_: LuiseGlobig; Elina Hattendorf (stellvertretend) 
+1. _Finanzen, Verwaltung und IT_: Felix Wöstmann; Mirco Lukas (stellvertretend)
+1. _Organisation und Pflege des Ticketsystems_: Mirco Lukas; Felix Wöstmann (stellvertretend)
+
 
 ## § 3 [Vorstandssitzung]
 
