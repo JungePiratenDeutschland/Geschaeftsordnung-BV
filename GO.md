@@ -21,7 +21,7 @@ Die Aufgaben gemäß §1 II werden wie folgt verteilt:
 (3) Über den Verlauf der Vorstandssitzungen wird ein Ergebnisprotokoll angefertigt, das geeignet zu veröffentlichen ist und per Vorstandsbeschluss in der nachfolgenden Sitzung genehmigt werden muss. Zu Beginn der Sitzung wird hierzu ein Protokollant und evtl. ein Helfer  bestimmt, wenn das Protokoll nicht gemeinschaftlich  angefertigt wird. Das Protokoll muss Anträge, Beschlüsse, namentliche  Abstimmungsergebnisse, Stellungnahmen, Anfragen und Namen der anwesenden  Vorstandsmitglieder enthalten. Darüber hinaus sollen die aktuell bekannten Kennzahlen zu Mitgliederanzahl und Finanzen angegeben werden.   
 (4) Nichtöffentliche Sitzungsteile sind ebenfalls zu protokollieren, werden jedoch nicht veröffentlicht. Sie stehen nur dem Vorstand und auf Antrag dem zuständigen Schiedsgericht zur Einsichtnahme zur Verfügung.   
 
-## § 4  Anträge zu Vorstandssitzungen
+## § 4 Anträge zu Vorstandssitzungen
 (1) Antragsberechtigt ist grundsätzlich jede natürliche und juristische Person.   
 (2)   Die Zulassung von Anträgen bedarf folgender Textform: Die antragstellende Person muss genannt, der Antragstext deutlich erkennbar und eine Antragsbegründung zum Antrag enthalten sein.   
 (3) Anträge an den Vorstand sollten beim Vorstand per E-Mail an `vorstand@junge-piraten-org` eingereicht werden.   
@@ -34,7 +34,7 @@ Die Aufgaben gemäß §1 II werden wie folgt verteilt:
 (4) Der Schatzmeister hat das Recht, ein Veto einzulegen, sofern Ausgaben zu einer Zahlungsunfähigkeit oder Kreditgefährung des Verbands führen. Bei Beschlüssen, die Ausgaben beinhalten, ist daher abweichend von §6 I Satz 3 in jedem Fall die Abstimmung des Schatzmeisters abzuwarten. 
 (5) Durch eine regelmäßige Wiedervorlage der Protokolle wird eine Überprüfung der  Umsetzung von Beschlüssen vergangener Sitzungen durchgeführt.   
 
-## §6 Umlaufbeschlüsse  
+## § 6 Umlaufbeschlüsse  
 (1)   Umlaufbeschlüsse können von jedem Vorstandsmitglied initiiert werden. Der zu beschließende Antrag ist umgehend allen anderen Vorstandsmitgliedern in Textform per E-Mail zugänglich zu machen. Die Vorstandsmitglieder haben ab Antragstellung 72 Stunden Zeit, über den Antrag abzustimmen. Ein Vorstandsmitglied, das innerhalb dieser Frist seinen Willen nicht bekundet, gilt als sich enthaltend.  
 (2) Umlaufbeschlüsse werden mit einfacher Mehrheit aller Vorstandsmitglieder gefasst.   
 (3) Beschlüsse zu folgenden Anträgen können nicht im Umlaufverfahren, sondern nur in einer Vorstandssitzung gefasst werden:   
