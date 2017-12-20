@@ -1,11 +1,11 @@
   
 
-**§ 1 Allgemeines **  
+**§ 1 Allgemeines**  
 (1)   Der Vorstand führt die Geschäfte des Bundesverbandes nach den  gesetzlichen Vorschriften, der Satzung, sowie der Geschäftsordnung gleichberechtigt gemäß nachfolgender Zuständigkeitsverteilung. Er arbeitet mit allen Organen und Mitgliedern des Verbands zum Wohle des Verbands vertrauensvoll und motivierend zusammen.   
 (2)   Jedes Vorstandsmitglied hat die Pflicht, den ihm  übertragenen Aufgaben nach bestem Wissen und Gewissen nachzukommen. Vorstandsmitglieder können einzelne Aufgaben an andere Vorstandsmitglieder, Assistenten oder Beauftragte delegieren. Jedes  Vorstandsmitglied hält seine Arbeit für den Vorstand in einem laufenden Tätigkeitsbericht im Wiki der jungenPiraten fest.   
 (3) Jedes Mitglied des Vorstands verpflichtet sich in Ausübung seiner Vorstandstätigkeit mit Klarnamen aufzutreten und in der  Kommunikation nach außen, sowie nach innen eine offizielle E-Mail  Adresse des Verbands zu verwenden.   
 
-**§2 Der Vorstand besteht aus folgenden Pirat*innen:   **
+**§2 Der Vorstand besteht aus folgenden Pirat*innen:**
    Bundesvorsitz:                     Jonathan-Benedict Hütter  
    stellvertretende Vorsitzende:  Luise Globig  
    Schatzmeisterei:                  Felix Wöstmann  
