@@ -1,7 +1,6 @@
 ## § 1 Allgemeines
 (1)   Der Vorstand führt die Geschäfte des Bundesverbandes nach den  gesetzlichen Vorschriften, der Satzung, sowie der Geschäftsordnung gleichberechtigt gemäß nachfolgender Zuständigkeitsverteilung. Er arbeitet mit allen Organen und Mitgliedern des Verbands zum Wohle des Verbands vertrauensvoll und motivierend zusammen.   
 (2)   Jedes Vorstandsmitglied hat die Pflicht, den ihm  übertragenen Aufgaben nach bestem Wissen und Gewissen nachzukommen. Vorstandsmitglieder können einzelne Aufgaben an andere Vorstandsmitglieder, Assistenten oder Beauftragte delegieren. Jedes  Vorstandsmitglied hält seine Arbeit für den Vorstand in einem laufenden Tätigkeitsbericht im Wiki der Jungen Piraten fest.   
-(3) Jedes Mitglied des Vorstands verpflichtet sich in Ausübung seiner Vorstandstätigkeit mit Klarnamen aufzutreten und in der  Kommunikation nach außen, sowie nach innen eine offizielle E-Mail  Adresse des Verbands zu verwenden.   
 
 ## § 2 Aufgabenverteilung des Bundesvorstandes
 Die Aufgaben gemäß §1 II werden wie folgt verteilt:  
@@ -10,8 +9,8 @@ Die Aufgaben gemäß §1 II werden wie folgt verteilt:
 1. _Presse & Webseitencontent_: Jonathan-Benedict Hütter; LuiseGlobig (stellvertretend)  
 1. _Externe Kommunikation (andere Vereine und Jugendorganisationen)_: Jonathan-Benedict Hütter; LuiseGlobig (stellvertretend)  
 1. _International cooperations/Internationale Beziehungen_: LuiseGlobig; Jonathan-Benedict Hütter (stellvertretend)  
-1. _Kontakt zur Piratenpartei_: Elina Hattendorf; LuiseGlobig und Jonathan-Benedict Hütter (stellvertretend)  
-1. _Mitgliederbetreuung_: LuiseGlobig; Elina Hattendorf (stellvertretend)  
+1. _Kontakt zur Piratenpartei_: Elina Hattendorf; Luise Globig und Jonathan-Benedict Hütter (stellvertretend)  
+1. _Mitgliederbetreuung_: Luise Globig; Elina Hattendorf (stellvertretend)  
 1. _Finanzen, Verwaltung und IT_: Felix Wöstmann; Mirco Lukas (stellvertretend)  
 1. _Organisation und Pflege des Ticketsystems_: Mirco Lukas; Felix Wöstmann (stellvertretend)  
 
@@ -44,7 +43,7 @@ Die Aufgaben gemäß §1 II werden wie folgt verteilt:
    d) Aussprache einer Ordnungsmaßnahme.   
 (4)   Umlaufbeschlüsse werden zeitnah nach Beschlussfassung veröffentlicht. Dies gilt nicht, sofern  Persönlichkeits- oder sonstige Rechte dem entgegenstehen. 
 Sie sind zu verifizieren. 
-Die Verifizierung soll auf der nächsten Vorstandssitzung geschehen und ist auch en bloc möglich.   
+Die Verifizierung soll auf der nächsten Vorstandssitzung geschehen und ist auch im Block möglich.   
 
 ## § 7 Verwaltung der Mitgliederdaten
 (1) Die Zuständigkeit der Mitgliederverwaltung ergibt sich aus § 2 Nr. 7.  
