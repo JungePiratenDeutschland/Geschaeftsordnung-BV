@@ -29,7 +29,7 @@ Die Aufgaben gemäß §1 II werden wie folgt verteilt:
 
 ## § 5 Beschlussfassungen  
 (1) Beschlüsse werden in der Vorstandssitzung oder im Umlaufverfahren gefasst.  
-(2) Stimmberechtigt sind Mitglieder des Landesvorstandes.   
+(2) Stimmberechtigt sind Mitglieder des Bundesvorstandes.   
 (3) Eine Vorstandssitzung ist beschlussfähig, wenn mindestens 50 % der Mitglieder des Vorstandes anwesend sind. Beschlüsse auf Vorstandssitzungen werden in namentlicher Abstimmung mit einfacher Mehrheit der anwesenden Vorstandsmitglieder gefasst, sollten die abwesenden Vorstandsmitglieder nicht vorab ihren Willen bekundet haben.  
 (4) Der Schatzmeister hat das Recht, ein Veto einzulegen, sofern Ausgaben zu einer Zahlungsunfähigkeit oder Kreditgefährung des Verbands führen. Bei Beschlüssen, die Ausgaben beinhalten, ist daher abweichend von §6 I Satz 3 in jedem Fall die Abstimmung des Schatzmeisters abzuwarten. 
 (5) Durch eine regelmäßige Wiedervorlage der Protokolle wird eine Überprüfung der  Umsetzung von Beschlüssen vergangener Sitzungen durchgeführt.   
